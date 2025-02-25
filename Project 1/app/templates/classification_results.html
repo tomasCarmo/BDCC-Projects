@@ -1,0 +1,16 @@
+{% extends 'general-template.html' %}
+{% block content %}
+
+<h1>Classification Results</h1>
+
+{% for classification in classifications %}
+    <div>
+        <h2>Filename: {{ classification.filename }}</h2>
+        <img src="https://storage.googleapis.com/{{ classification.bucket_name }}/{{ classification.filename }}" alt="Classified Image" style="max-width: 200px; height: auto;">
+        {% for result in classification.classifications %}
+            <p>{{ result.label }}: <b>{{ result.confidence }}</b></p>
+        {% endfor %}
+    </div>
+{% endfor %}
+
+{% endblock %}

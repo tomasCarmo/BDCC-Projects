@@ -1,0 +1,34 @@
+{% extends 'general-template.html' %}
+{% block content %}
+
+<h1>Cloud Vision API</h1>
+
+<b>{{ data.results|length }}</b> images classified with a minimum confidence level of <b>{{ data.min_confidence }}</b>.
+
+<table border="1">
+    <tr>
+        <th>Image URL</th>
+        <th>Classifications</th>
+        <th>Image</th>
+    </tr>
+    {% for result in data.results %}
+    <tr>
+        <td>
+            <a href="{{ result.image_url }}">{{ result.image_url }}</a>
+        </td>
+        <td>
+            {% for label in result.labels %}
+                {{ label.description }} (<b>{{ label.score|round(2) }}</b>)
+                <br>
+            {% endfor %}
+        </td>
+        <td>
+            <a href="{{ result.image_url }}">
+                <img src="{{ result.image_url }}" alt="Image Classification" width="600"/>
+            </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+{% endblock %}

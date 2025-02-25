@@ -1,0 +1,10 @@
+Nightstand
+Bookcase
+Couch
+Desk
+Picture frame
+Chair
+Houseplant
+Door handle
+Bed
+Lamp

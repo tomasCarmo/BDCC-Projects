@@ -1,0 +1,1001 @@
+set,image_uri,label
+training,gs://proj8824.appspot.com/ImageFiles/00183df6ffe09093.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/004e67c094c01d68.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/00b9bbe6f3810cad.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/00fa7b450b0aa4f7.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/02a63ebed0f709ce.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/02b33bdacdfc1c2b.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/02c221b14cbcc489.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/03145a02239df7b6.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0319000d042d15b9.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0325aacc6a451a64.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0329b7efc120db25.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0388df253be4b041.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/03ca6ad93a6b77f2.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/03fa9b3bec860271.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/040f7caee109ab4b.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0416ff9bd589ef4f.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/041b3597d605f38a.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/04332abb4e4ea1ea.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/046c99f5b14dbfd2.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0493f305183ad8e4.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/04b45f19a8f6d2d5.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/04e04df182682413.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/05162223d18ef5e9.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/05748835f124913b.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/05b06c481952d6d2.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/05ce2b551fc1aaf0.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0660751236870321.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0667ebe76e4ba9d9.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/06e2247ed9a6026c.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/07a550a345299a05.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0821a0f6daea49e8.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/083e7253a5c2ca31.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0862471ef65469cb.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/08b29e89ce141aa1.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/08cc97ee4323c78a.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0944abb51c1e65aa.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/094f2672f07bbea1.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/096e7a4de28f134b.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/097cf131b27372c0.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/09d368a4faa5d133.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/09f08ac7c71b4675.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0a951714918ace53.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0b0324e155882cc8.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0b4e5846e2a166e3.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0b93e142e8a2742c.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0bb9b4667c490a1b.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0bfb9c15ae11c062.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0cdb58d89f40f455.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0d63938eacffd753.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0d8898f445c9b7b9.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0dad6808f5b26455.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0dd052cc9c05ea78.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0dea7913ba6661d8.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0e24fcbf5258e639.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0ec5b612710b5fb4.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0f0ac86e941a5450.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0f746985983c4b14.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0fa7a90f325fdec4.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0fc220956c436215.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/11051240239ce83f.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/11550167994ea3bb.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/1178baa6c8333386.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/11d2f252252fe7a6.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/1244f57c2d5c27f2.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/1278ebae9da43d63.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/12cc240b8f3bd455.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/12f41110896491be.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/13243f409656487b.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/13459d3468b05153.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/138577386a08c787.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/13af4465a6f1197f.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/13f501177fa2fd37.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/1483ce4e2072ff12.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/14c1375d2f382e4f.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/14e68717e57a8689.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/152ae09dbb2e61ec.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/15332f01d6402b3a.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/1546e9f31eec6118.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/15cc483b22bb41a7.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/160df747d990e5b3.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/162e430a23c86c4b.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/163fe17e4667e76b.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/1699f9150f5b86d9.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/16b609295b5632ad.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/b9e9130291a9eae8.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/ba5626df841394f9.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/bad0fd9a7086c388.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/bb62f4218788c793.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/bb6354d5a56debd5.jpg,Chair
+validation,gs://proj8824.appspot.com/ImageFiles/bbcb898efe855f6f.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bbcba729f99ec6fa.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bbcf2b807b37b37e.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bbe447d187440a43.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bc069bedbbaf5442.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bc28680f169c6246.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bc292741e03b5cf5.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bc512eb8be3b38c8.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bc892416d686683f.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bceab75f98ae41a8.jpg,Chair
+test,gs://proj8824.appspot.com/ImageFiles/bd402a7cf722550f.jpg,Chair
+training,gs://proj8824.appspot.com/ImageFiles/0056ffa38a8489b6.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/00fb47a3a3de737e.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/01ba91ee1513d79c.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/027b5c62f38fc44e.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/03cb58dfb0ecb4fd.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/06e61ebc07e5eebc.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/07be078a07dda759.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0836a2a0b49e3d2d.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/089f139ac3ecde3b.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0938634ea64e52a9.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/09ab6b638cd81c41.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0a37876a49ee0a2d.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0a5491015b4ba5c4.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0b5aafd8a0bb5c1c.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0c43ab75f99b8316.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0c6f7d3d5ef5b862.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0cd9c7cc7f63adc8.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0dbc0e0e399c1f90.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0f95ef01a6309945.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/100306243fe1178e.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/10cbf3715b2bcf72.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/123ce1a982ab8bdf.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/12509661681bc7c8.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/128f582673ba68fc.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/12c733770491a77d.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/134a5612209dcdb0.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/15e917072f32ca9c.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/16233e1005afe696.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/bac5888e0a02c499.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/bb8e4cf0385bb22a.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/bd8c0c572ec6c9b6.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/be73b83c3f58d469.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c1c62ddfe13f7764.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c279e14b172412aa.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c2f2bd26d85eb993.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c2f81a85fe3a18d7.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c3d8157e781c86a8.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c464c40628fbb51b.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c508532ae14086e6.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c534ca03e2ddee9a.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c539279a1c12cdf7.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c5897f24ce468851.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c67221f10c2b742d.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c6c306a4058cefa5.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c76254990e561d12.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c76a6c85cb54c105.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c85d1c1314d67b2d.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c862df01b724f924.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c8966d10f1c5b145.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c92e295e72a3d914.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/c960ab0310c7e8f3.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/cb78c19a14c00404.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/ce2756de994484c2.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/cf0a449ed9ef2100.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/d07d40b646c3923f.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/d0c153d02c2c62f5.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/177bbe97cd3bc5be.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/17d6e0c2ef2c474f.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/1878e10fa132babf.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/18b4ed30f44419b5.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/1a334434d5e7bbe1.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/1ae5d1726ce7e04f.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/1b9e36b4e8fa41bf.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/1c0ab722b24437d2.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/1d3702a4e1d99fc1.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/1efcf77ca6b020ed.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/1fe42568c60af74e.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/2108d845b691fd4d.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/21567f13e0afc587.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/21b65f2f401f3475.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/246b474d6ea03d80.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/247d98c7951ae977.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/24a3a532f99c7bdd.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/2555fecc5f7b53db.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/2574656d10ba0557.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/2602d66e3cbfecf9.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/27968a68055e31fe.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/27ced8d7a73c29a5.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/27eaa775b1dfdff1.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/27efcb1835ce56be.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/29e91aca75ec18db.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/2a44575354daee05.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/2a5ba7c16f8d3d1b.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/2a7f66464242753b.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/2b780ccb9c6e100f.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/2baafac7a4de2787.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/2bcef65fd9e35d5d.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/2c137906fce91825.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/2cdb0c6605921f76.jpg,Desk
+validation,gs://proj8824.appspot.com/ImageFiles/2cea6fa6d7c15302.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d1cc55f91db24e9a.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d251a23d7fdb4f76.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d310cf5dff31038f.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d4e33ea529cdbc81.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d50064dfabf0fbd5.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d627a51766d894c6.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d6c0ce874079a4e1.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d7c610b5008dcb29.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d80700a0235c1e3c.jpg,Desk
+test,gs://proj8824.appspot.com/ImageFiles/d863450fde5a5cc9.jpg,Desk
+training,gs://proj8824.appspot.com/ImageFiles/0050f23b3c75999b.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/014ce4294afbd04e.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/01eb6e3c7c57acc8.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/0242f674762a8b4e.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/02c6ced79b2a3ae0.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/037ddd4f255512b5.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/05162e062160ac34.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/082b50254afc81a3.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/08b35f797740dba6.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/0914f2cc002a5627.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/0a15d0aae0dfcbc6.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/0acef9be6da72fe3.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/0b3bab9cb237a66f.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/0d26ce58a73577ec.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/0db98063ea0e1d30.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/100592e9e99ebc8e.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/10405e4d23c6a1d4.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/12ac3d31f1bdbdec.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/13aadd63c0cadb71.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/13b734a953cc37b3.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/15769b66b0524a1b.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/15c7f835ff13a39c.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/15f6b3b05bbef76a.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/b9f1ec110c5b165e.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/ba0af86bb255c43e.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/baf5be6c347dbf73.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/bb473fe221c707e5.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/bbf07c3a2d81a800.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/bdedc9f1b3d047ac.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/bf5a51111dc499b7.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/bf61037af705a93d.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/c2a74bbbbe9d4bd5.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/c4a1b431011b2177.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/c806514ab9820377.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/c86ad0838460094b.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/c94074cc7712414c.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/c9e0fe549e905887.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/c9e4bc5061b59a48.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/cbc6b2d540711845.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/ce31f6d86b75fcc4.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/ceeeafe323131c97.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/cfc2ae79aac72956.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/17c4b83031f8492c.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/1ac1c7932c20fbaa.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/1b41682c9e02056a.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/1cbf82099830247c.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/1d497ff1c6a29c5a.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/1e73ef79445975d9.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/2151d240b822354b.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/21763754dffb6ccc.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/22323e18fde62452.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/2456a728d9d792f4.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/2456fea64613eee4.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/24a29f88e8c02237.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/24c68ec532b19ef2.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/252fd3d18e11a198.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/257c34b2ce86f27b.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/267d10714cfd3c22.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/27830540fb13a210.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/2aa83f4d9dbfdc54.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/2be29e550f49c74c.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/2c438ba69023be9a.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/2cdc0915b7e70885.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/d1e0e207600c1b10.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/d38e0d770e224639.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/d94601853bfc1466.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/d99a450105a5a30f.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/da3c002d7120bed2.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/daa390c5ca0677be.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/dabac3bf2e8b1e78.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/dbf8d78279c95272.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/ddeac0649e19f704.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/de6ab5a534421d8d.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/de9836fd486c8c9c.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/dedc87ec320a7763.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/dfea338b0f15834d.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/e0a010d65d006efe.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/e0c3ebfc6b4c0f90.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/e192de639649a504.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/e22c07335dd3a4f8.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/e28b078cbbdc1139.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/e2e8a34b81f98b9c.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/e3441644efd7ce4a.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/e3fbda59e2ae70b0.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/e487825367d53f7f.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/e4a5ba32f73f6108.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/e6e594c3a0a5f553.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/2dbbfef42a714722.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/304fd1df0b899a89.jpg,Bed
+validation,gs://proj8824.appspot.com/ImageFiles/3320a7f75fb70ac3.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/33d79815c3faba27.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/3426d6628aa49e00.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/344df6d3142eadfb.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/352784a6029380c2.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/360d48f9e44b9609.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/360ff07a511be99e.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/367e80333bd99968.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/3a9b5c0b50efc934.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/3b55842f468e29d8.jpg,Bed
+test,gs://proj8824.appspot.com/ImageFiles/3ba0d18cc645c204.jpg,Bed
+training,gs://proj8824.appspot.com/ImageFiles/01f772f75d05477c.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/01fdc956f59149b3.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/0530428836bd4956.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/065f414dc792f85d.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/09f3e35b642c26f3.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/0a51958fcd523ae4.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/0c932392368ddc9f.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/0d2069678ded738e.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/0fd4611c6a093d0a.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/10dec13f53cbf93a.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/11789876e782aed8.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/11c10d9d7a456822.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/147de698c52bcb60.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/153cf986ce87c169.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/169f75db18615bf1.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/16b5a94f5396922a.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/bb10f3e84b54bfc7.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/bbf45cfb2c196fff.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/be366a9cfe77520a.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/be630c016063d31e.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/bff7f3d911444c38.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/c09e6340e2a7b547.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/c543348e219e3e45.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/c70b78ab0d6423b5.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/c887afffea2a16dd.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/c97d7dd6d3b709f7.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/ca93064ad7341d63.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/cb812426b6601775.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/cbd8bc5b31879271.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/cd0f444cde5e6f84.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/ce259b7ef401114d.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/ce4959c52d7a937a.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/ceb65624543425d9.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/cf07f62c8eeb30bd.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/cf2b1577b88dae7e.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/cffa098794cc2408.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d11fe9c805b0a830.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/18d214c1c57937fc.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/1a7ed1f12fb6a51e.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/1b46f93821783226.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/1c2aa1a32c276ce9.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/1de17bcf53325202.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/1fc73d0a570883a2.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/20481c9e29a75549.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/20cdb828bd40b2b7.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/2238541e783605c0.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/226f0aee50c70e47.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/238fd5db42b5090a.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/250d4718a4e56700.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/252c8647aeea6fa5.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/269f6977c7dcfd94.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/27ae53e134dab982.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/2867da51a22394cd.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/29adb8c29c717de2.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/2b53423be64d705e.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/2b93e66488e77f04.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d39fa9d42f4fb9dc.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d4267f7e926d1c2f.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d567db8622e8219a.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d62dfba2507f5628.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d635bb8d4b411db1.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d6465863db007e28.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d68fdfe400964cde.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d6be58388ba9de02.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d885c3d9804861f8.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d9255d98643e445b.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/d9ffd0e5483595d2.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/dabb71370ad3e067.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/dad943c247b82ea8.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/dd65e1c921637ff8.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/de9b25caf58e014d.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/deeab05b39455e0c.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/dfd3d7e65c162f9c.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/e08425b8e1612ac1.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/e1f1c631ed751fee.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/e26412c9215e22fb.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/e2bc7576057feb4d.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/e73cf5235e501056.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/e7b738f025212523.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/e92265187c065893.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/2d9e454e11fc1b07.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/2e81087317ed08ae.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/2fbec860259b33b4.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/31c010689f461b0f.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/322edce091d2e54b.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/32afbd2cb5644430.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/35ce5fc55d633fa2.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/36592d159076687c.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/38caae234dc51d86.jpg,Bookcase
+validation,gs://proj8824.appspot.com/ImageFiles/3aa5042aca2cb002.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/3c380b4716ae11a9.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/3d8db9dac3e542d3.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/3e8ed29d9e52cf50.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/420ea711d0bdc0a6.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/42219b28724c0f07.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/e9f55f361f77a19f.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/ec2cadebb233c416.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/ecaad1cc53b84cf7.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/f152e2dc82acf200.jpg,Bookcase
+test,gs://proj8824.appspot.com/ImageFiles/f206ab1f04fd95b7.jpg,Bookcase
+training,gs://proj8824.appspot.com/ImageFiles/00fefe11de6b1470.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/02b5352518585031.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/080014db39bc64ea.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/0abb82a9f6e59669.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/0fa37a0fd092a160.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/1067c9055d392641.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/10baaed13b699731.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/12a38f67889617ab.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/138e5289cd0e0f29.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/1602bffffb7a36bb.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/bd326ca08542dd4f.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/c59a301798eb8793.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/c97acce4408a066b.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/c9e4385e552944cc.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/cc4966f88fdb277f.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/ce383f96db43241d.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/cebe7cc2a449bf72.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/d0026045b7c45491.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/1978dcadca2bd58e.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/1be3c3bc1f467fc8.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/1d2b287cdd4a2848.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/1d56ac8ab97e70a6.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/1d8c95517c3b98f1.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/1dc04c78bca6723f.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/2041ba101fb0bd1d.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/212b0652e392f02f.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/265682a2d842e275.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/26fd01d06b1be3f8.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/d35689b6cfd93868.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/d4d6cda8ad09d4ac.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/d7fa2fe869cc5763.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/d831d47f1ec071b6.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/de7ae86a939db07c.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/e0dff9c5ea5bbf72.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/e1e6f9a8212ccb8e.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/e222df89a3e294fd.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/e6a453e39709afb6.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/2fe23b37f393f13e.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/3282b1f5a88133f3.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/38a6f8f101610332.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/3b8d13c7d5d80273.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/3cf4654a7ef991d5.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/3e06b8fe956735ca.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/42bfcbce3b6f97d6.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/439951d2c42e7e9c.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/ebe6826459560dfe.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/edd0d41bd3f9e46d.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/f0c355f6d1414447.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/f19c94e1e071d314.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/f3bf1f0875c2a13d.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/f78515206a26c96a.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/fbeb16e8a12ae749.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/fc84ded08db0f5e8.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/fd6db789d0c99d7b.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/fe018f5919b94845.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/ffb48f7196a5eb02.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/4c62dd7a06e3318a.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/4d40cdb9f1f53282.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/4e52a556f316f568.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/4e80992d0969178a.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/50c268750b7eb983.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/51cef3f78f5edfe5.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/56f93b79c7bb37e9.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/57e67f96c54757d6.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/58b6aaa173189d5a.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/5a636bf01b5f57bc.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/5db70b51d514586c.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/5e876b03b16b8c10.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/698b2fc3ecfe6966.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/6da0053eaad6ce80.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/705bc17abf544515.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/71c517f9eb436875.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/72b66863ac7345bf.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/739f417cd91378f9.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/766c55fe5bdcb068.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/776d133d4151e144.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/803c60d0ff2a3d2c.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/82d32f9512be6c97.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/84984fb110316646.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/853335d133172986.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/86c566c737228188.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/877bbf7996354606.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/8bfa582db5cce71f.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/8d836c14cbba0c80.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/8e7db5d4ed944716.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/9023be9f7bbb1de2.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/916a436345b760bd.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/9567247341c57b48.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/956def7dd56758dd.jpg,Door handle
+validation,gs://proj8824.appspot.com/ImageFiles/963671bd8fb51cd4.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/9b403ce28c79a18e.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/9ef53bb6be338cc6.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/a456b3d7ff72f055.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/a829cdb32c9e602d.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/a951cde01e1f753b.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/abef2de15b6ea83a.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/ad71c18ad83cdd65.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/b3f7b7437cf89d1a.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/b60025591c406e37.jpg,Door handle
+test,gs://proj8824.appspot.com/ImageFiles/b6435340add5e3f1.jpg,Door handle
+training,gs://proj8824.appspot.com/ImageFiles/023b447cac3b3557.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/0da3dddd860df59b.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/157e5ab3d1edeeba.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/15b81f4c156379f8.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/b9e8bb9b4143a416.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/bbf9f48937268c7a.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/c157519c390325b8.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/c7ed2bf7831d135e.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/c8c25adb2915d95d.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/16f7251ee8768470.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/17930a007017e66d.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/1ab03e024f48c23d.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/1b4625dc2ae401f0.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/1f6d040583d081ec.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/1ff0702d07e463c6.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/20393a271a3547f0.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/2100e86484efda14.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/24f0338f385a4482.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/27e999c3af193d36.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/282171b79b7ede6c.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/2bafc4fa7cbced12.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/d605fc35bb8d32a3.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/d87dd3279df4537e.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/d9063e7639a8ef0e.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/daa58f699344ba57.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/df6592a96fc10e86.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/e18fd691284d2afb.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/e53f17ec8c2aba68.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/e5eb853c477f4ba7.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/e6a3eb894b0b9a4c.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/e73a08db2b7335ed.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/e75c980c218966f0.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/e7bdbc42c397902c.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/e97c97c39ade3031.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/2ff51a0fcec50f88.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/30ccb0faf1613602.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/329eb1c79bca4679.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/33504d37e7a2553c.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/39988dc3a63d8751.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/3a7e9a321135a226.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/3c4ed73cb7cfc280.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/3da8d61c1402ad41.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/414a949d30c947e3.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/4183bd3518da1437.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/4188fb88caf70ef2.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/421b4b574ae5c7b2.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/42aa1058efb09dfd.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/44167b13e878ee25.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/ea91893686020163.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/eb7a4e24fcc4e6c7.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/eee78768f2329454.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/f16defdfcc454f1c.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/f1b480761060081e.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/f2b31981e52820b1.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/f701b6ac595a0361.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/fb20a14985d856ce.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/464ea740fe28d7e1.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/47f612a6c7cc8a11.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/481b282ba6007237.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/4935c2b05566340e.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/49b9aa64ac5e9bdd.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/49f5b015415da57d.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/4a692d7629bddd7b.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/4c9f5022a6b076f8.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/4cfe54c596d5af3d.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/4f5d42338fc8aed0.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/50b5d26d980d6b1d.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/50bbcda363453957.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/51152cd72079ba98.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/512d5e1843cd2f74.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/51bdb40a3f51cce3.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/52b19056f17e1154.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/57ed2a4238eaa406.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/58660f6531f19087.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/588ba1613aa45b85.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/5cff1760a36b80e5.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/5d637f98ec8d6547.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/6500f4b8a281f1ad.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/67d86515589102f2.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/6a72afe97d27d3b6.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/6d1a5fd80ae9c458.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/7421aff7db4c3ad4.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/7684a73c8bf42d32.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/798e136c7712ae9c.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/79bf6f0fc14ede03.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/7a681232bfc06c7f.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/7e5dfa5105e66299.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/82ebc6a99f41f24c.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/84ab4adfbd0683e5.jpg,Nightstand
+validation,gs://proj8824.appspot.com/ImageFiles/85bfba79711d01e3.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/85ccc9bbdf4d6985.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/86e8a48ba0da265f.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/87890bb19846608c.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/8adcb6384d9c12db.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/8dbed7ca2b12c9c2.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/8ed48d720cfadaad.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/904a60c393aeb940.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/90ccdb461240102c.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/91d3ab02785e48de.jpg,Nightstand
+test,gs://proj8824.appspot.com/ImageFiles/929507e916e441d4.jpg,Nightstand
+training,gs://proj8824.appspot.com/ImageFiles/006b2dfd3975b523.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/02363c619da2f9cb.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/03d82f2b6e458399.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/0a12bdc73183b4e4.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/0bed6510c64eb0ef.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/0c31924cf5fc0234.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/0f1a711381875066.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/11e349eddb991989.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/c00205af50959af3.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/c08c270833414c6c.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/c0d85d81604a9c7d.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/c2187555ad59d082.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/c4a17b574b87b8f1.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/c6e1f2c3840ecad5.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/c9887f97fd9b17b6.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/c9a13aff68ebb62b.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/cc4ce8f0efa4b422.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/cf4dca97280668fc.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/cf52d4e5aaab1bc7.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/1718191438fd2679.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/171f9ad84533c469.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/1775f9e04be05486.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/1a45fbc342dc2622.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/247cc24e5caa3fe3.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/249eade7a67881be.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/2635b7c9951e1aec.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/299d7b74b912910f.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/29c742032dc416b0.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/2bd09eb8b8669b7b.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/2c4d23db8687868e.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/d3d02580c922733f.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/d4f7d443668dab35.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/d641598ba41f7494.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/d86c7254acf270ae.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/dfaebf99299af125.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/e24dc1a1c9dd79a3.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/e46ae5193b5b48dc.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/e5202194c09bf353.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/e860f6415bf93024.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/e913649895d47c2a.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/2f983b0525f2f787.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/3100c5caabdf2815.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/3105c0ce100e9048.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/31d11a65df195a0b.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/32bba54e749380c2.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/32f442cc469100c5.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/35dd43805eb3b260.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/364741dd7ecf08bb.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/37ff506923d56974.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/38256644e1edb977.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/3928a399e08e1758.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/39f2c5bff9b37eae.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/3b4161bdd33887db.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/3eb686d5d4f47c5f.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/44056d6e8662c0f1.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/ec5d49cb58917612.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/eef7e8846e5750ee.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/f5dcdf6e0cb37efa.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/f763db801dff6430.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/f77ca1cdd6bf3d89.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/f77dda11fed2f658.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/f8947288df80322a.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/fa4ced6645e5f55e.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/fe088d89a482d393.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/ffa70a65bc910ea4.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/45cc6b5171322804.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/465d9cba07ece99c.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/4837da8d35342ffa.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/4b1198d48a2c7e4d.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/4b1c82abd1b42f0f.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/4f1a11030b8c6347.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/529f91432a0d4a6f.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/5871e9c190147b46.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/607afb92ea140b5f.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/60ec7a80450e7f3f.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/64241a9d9dabcf02.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/6633254c202de325.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/6741a1e809ba8087.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/67445ae3fe3db5dc.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/68c23383812b22ed.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/692d8a604ba724b5.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/6946df09fdf50b9e.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/6b161151c2efb5e0.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/6d9fa278c595eee5.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/70df06631b63e502.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/71af6c430bfdb4f4.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/7398a811456bb9fd.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/7399167f09a57ee7.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/743f3d959300f521.jpg,Couch
+validation,gs://proj8824.appspot.com/ImageFiles/75a0b065919c895b.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/77b84e6f1997114d.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/77c18a9ade7b9121.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/78cf6ef90ff6079f.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/7929a20d2854083c.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/7f700ddc776e97fd.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/813130a68d6db7ec.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/86d50157682e3754.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/8acea7798e197cdc.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/8b71f5a78d0f2fe7.jpg,Couch
+test,gs://proj8824.appspot.com/ImageFiles/8c86d3605d0ddbed.jpg,Couch
+training,gs://proj8824.appspot.com/ImageFiles/00e20fa6098f2577.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/00faa3c80e7aa721.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/00fc6fca3c76f9a4.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/015abd5b60829e3c.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/020a5f440e5eb0a4.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/02500399435a284f.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/035a23bd76cd044e.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/03a76a02088b4417.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/03abf85fbae6ceaa.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/041a336e612636c1.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/053ed02dae6b1e1e.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/056c613e4664b3f7.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/05702b11f9297169.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/05fe0725636fe840.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/061be1d696201b24.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/063f0cd67ec364b5.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/06c6aa6db9b0c81b.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/076ebe84d254d9f4.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/07bec0e5890f41e7.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/088c3bc4ff38948c.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/09729ef7ea077267.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/09781e569a3c86c5.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0a8ef573281c5f2d.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0b60a89781d6921c.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0bed8c891dedc76e.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0bf99714ce063ab6.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0c08e8a1eae77e23.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0c4f44fe071fc896.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0c8c7e644722e941.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0cd95dd17924d7e4.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0cdff63866e73613.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0d0ab533f365188d.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0d144ad063f7c73b.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0d4becbb921d522c.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0d6d14f4771292ae.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0e2e5369865ba607.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0e33e0d79a3b416a.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0e488c3b5e64626d.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/0e6d4b910307a401.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/1039d233fbae0870.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/1064d513dc8bd213.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/11a0d11d4a70ccae.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/11db327193fafcd0.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/120002f35d0545a1.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/1211c1337276a27f.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/130e43fd24bdc915.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/13375c8000fbc1e2.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/136b04beda878e15.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/1396b5d7fb9e3cdb.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/13998fa14da472bf.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/13c7d83654e4f3d4.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/145e60d064abd78f.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/148e5c427d317b66.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/14dae106922dcff7.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/1527920228d6e563.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/1572393cd287520b.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/15cd1598699e3636.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/15e8f02187159f7a.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/1648f9a633618567.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/165c97291dff0f67.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/b99f806f47b7ac3a.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/b9a836930d49ebb9.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/b9ee19b2b1769ed3.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/ba10cd295a220ec0.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bb1d751b6742ffdc.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bb55e7ecadf9c371.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bbda10b5c6645a51.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bbdbcb5f2f27f23f.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bc093d4b796db769.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bccadc5697d9213f.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bd0d357648a20d4d.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bd1f0bbcb76ea2a6.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bd447fd2e855b993.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bd5f410bada623bd.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bd6c1bcd45f0c80d.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bde8fa767227c4ea.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/be1b2a09cec1102c.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/be2b41354754612a.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/be5918ec2c052593.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/bef3e3eb80f5b470.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/bef89a69d34ac452.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/bfb9ada089f70407.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/bfd7a523351379bf.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/c02cfaac0ef3a436.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/c0c0070ab87f70d0.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/c0c867f426553cfa.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/c0db93a0fdf5d1c0.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/c1144c7ed61609e1.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/c19c03202cc40d48.jpg,Houseplant
+validation,gs://proj8824.appspot.com/ImageFiles/c2481b36a1ebdc6a.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c2625c4fec379eff.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c2d4ff401479a83c.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c2e6988e6eec325f.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c35a1fd7c3867f8a.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c38074e97ca95e3b.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c3894c772c900efa.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c3a355b49c84b178.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c3af89f60b1d98c8.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c4ad388ce73ff609.jpg,Houseplant
+test,gs://proj8824.appspot.com/ImageFiles/c4b7e2e710b56119.jpg,Houseplant
+training,gs://proj8824.appspot.com/ImageFiles/021d4647b8f087e8.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/036525aad0e681b7.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/045386ed0486a876.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/0663e940d6fdd85e.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/08573d6a7a62ca69.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/09ec94c9569b74f2.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/0bb77864c1fed273.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/0c2b2733f175aaa3.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/0c585389c6d3db2e.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/0f28b00c63af4595.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/157f9988569e13f8.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/bb9dbf53fe8d2579.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/bbd55620c4a9bdb4.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/bd32807b77d35bc6.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/c0ea279c7d1a1577.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/c29d7489ee8c8609.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/c47a67a19ea78e8d.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/c7a63c2653c55cbd.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/c7adf6aace6c18c3.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/c7fd008b37426011.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/cb6a70e572e98beb.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/cdd49b2990e5b7e4.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/ceb805357b4c4760.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/19df499895a8cd4f.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/1aa749aa7dc99526.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/1b674e2f5d3dff0d.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/1b7cd8ec6727544a.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/1cfee6d9ce202801.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/1dc3943912c904bd.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/1fe9ad8c6f0d5ff5.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/215b948aec075c66.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/2205d48948394a7c.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/2504b9635a2476d2.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/251f40f36b559ba8.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/2770c667b26f8bca.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/27c72d848f4d8df8.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/27f88da2498f7dc3.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/283dfd90bf5b6fbd.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/2958ee2cb573a6ca.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/2b525bbb35416883.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/2cb84e34527db533.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/d2c9335869aa995f.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/d362fbcaa8af27db.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/d69f328494264031.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/dd0ace6a35a8f897.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/deab298aebade694.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/e171c9afcfa6cb77.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/e46d0995237b573d.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/e67ea58fb6a885a7.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/e6e82fe0b0549c2c.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/2d9d68cee89b98ba.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/2e0abde5415833b6.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/2f4f0a1b3777ad87.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/346cccdac97c2c50.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/369a50cf95f3f88f.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/39caf31d64740d4e.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/39dba9b6c09aa8c6.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/3ac85f97c4d48133.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/3c02f16f6567141c.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/3c3dcca8962b4515.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/3dcc5dcb17893079.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/3e2d15ae3dfabcf7.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/3e3cb29e38b2af5f.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/3ebdce01426a92c3.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/3f3078e09107b4a7.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/403bf25d0dc90ad8.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/e9f40765a3f24db2.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/edb04ce7f04565b0.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/eef125b33737d19a.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/ef1a2ba410a70e00.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/ef30b8fd8f000ed1.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/f02e740b5207b355.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/f04cf5d16923f59d.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/f199677a6817a755.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/f258745d3ef72843.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/f54a42731663fc74.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/f7c99bcb46b3b43b.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/f88649cb89c066eb.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/fab2c98f12cbcd1b.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/fb507978466fcdd6.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/fd0bb93511a32811.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/fde4fbcc957761dd.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/45f642f537112629.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/490c8bf9b24e9395.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/49171b013b9150b6.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/4a4d7db468755934.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/4b09edb7ad068305.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/4d7468380a72de0f.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/4d77a66a1693629c.jpg,Picture frame
+validation,gs://proj8824.appspot.com/ImageFiles/56fcc1e88f8a507a.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/5b97aeab1f8953d7.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/5d01e222f89fcda7.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/5de52ba8694d49a6.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/614a9e279dbfd061.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/616704ae33f9e45b.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/621a64de93b0a229.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/655f6aaa8b2bf2f8.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/658a66416de630c1.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/6596f072b0630db1.jpg,Picture frame
+test,gs://proj8824.appspot.com/ImageFiles/667e1f90307ce220.jpg,Picture frame
+training,gs://proj8824.appspot.com/ImageFiles/007d056daeb03fc3.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/01e32b4d72cc22b6.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/02183289fae0c47c.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/08c542fdd5417a2a.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/0a929c37c694d205.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/0a99d8dfdb8625e1.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/0afbd7b4add3f564.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/0ee3eec81d129cf9.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/1194b04d2193155f.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/12032d88a0aac30f.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/15362b7c65f87cc4.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/bf1e4030d88a0b1d.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/bf1fed28d07675fe.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/c5f076c0cabea4c4.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/c6f33697c4c60596.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/c83a3436b242f693.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/cbf885a8c7c31be4.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/cc9c9af2a63881ba.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/cda473041ecd8453.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/1953bdd9e67843b0.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/1e8dd45113e1c46d.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/1f0e7b8d37fec45b.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/1f2b7822c48e028f.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/1fc0238ed90f2b7c.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/202323325165af4f.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/202b07c407e93d45.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/2179f74d04522cd0.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/257263ddb909ec6a.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/26155211864db2f5.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/263855bc9c5449cd.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/2693acbe439a548c.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/2b6ca9cb2601aa7b.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/d15f982b42298098.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/d303a00554851543.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/d40683c2337ed3ae.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/d4234770411bbe35.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/d799873c5999e3e0.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/dda365b3b678eff7.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/dec5d866e0624c58.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/e224f21344205091.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/e34b706faf8a1fbb.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/e3532ccfaf165a4c.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/e3d705cbfce324f4.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/e4bd3b1c73e89d7f.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/e4c50e8a5c08ff37.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/e854438724f4fa59.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/e8ae2612058aa6ee.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/32557b68d74c17c4.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/32fed07b0e8910ae.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/34cbb8204d67a5aa.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/3c086d4c1b00cd15.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/3ed0d4ab4b3269dd.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/4075b7fd94a22d4d.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/40af7d0c917e72c7.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/423724c7618433d8.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/eb82b63e1e3389ac.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/ec3b056f675b4504.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/ed231c2140c2c89d.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/f3cb9c712168fb7f.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/f775a284e27b9250.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/f8657f315807b98f.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/f9269d8e957bb880.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/f9ae7ab75748a2c1.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/fabd651249f72887.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/fcb41c1ca86129e1.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/fd786a91a02aedf0.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/fdb43e25f4be269f.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/fe2bb74d51080907.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/458ca062de3b5ca8.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/4806307396f1100c.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/4e4fa214bd788f8c.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/4f94ad04df867ad5.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/51ff4611c45f4dab.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/52abd853c176b087.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/549b059cdf82d0e3.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/551b36625bf84719.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/55e3ffeb097cb19a.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/5a13b460c04db695.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/5a949aded2512034.jpg,Lamp
+training,gs://proj8824.appspot.com/ImageFiles/5b0f9dedfeba3892.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/5dc9465b0bad69fc.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/5f86a3e33180fe15.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/6080a3faf464603e.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/64a3d26fbaa300a8.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/663bbe79d880e5cb.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/6654b17638d5831f.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/67eacc21aa4b3789.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/6813ede09d2af8fe.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/6926686bd23227e0.jpg,Lamp
+validation,gs://proj8824.appspot.com/ImageFiles/6b0d42d603946b84.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/6c95951e330bedba.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/6e174f0711173220.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/6f66a17b950b2df3.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/705ac475ecd763d4.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/7119035c54b8964a.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/71b828357f8f3fdf.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/7dfa97624e81b930.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/7e4a1755f6424afb.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/813c304c05bebf97.jpg,Lamp
+test,gs://proj8824.appspot.com/ImageFiles/821f6bd270e77be1.jpg,Lamp

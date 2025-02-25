@@ -1,0 +1,18 @@
+{% extends 'general-template.html'  %}
+{% block content %}
+
+<body>
+
+<h1>Image Information</h1>
+
+<a href="https://storage.googleapis.com/bdcc_open_images_dataset/images/{{ image_id }}.jpg">
+    <img width="600" src="https://storage.googleapis.com/bdcc_open_images_dataset/images/{{ image_id }}.jpg" alt="Image"/>
+</a>
+
+<h5>Description: </h5>
+<p>{% for result in results %}
+ {{ result[0] }} &nbsp
+{% endfor %}</p>
+
+
+{% endblock %}
